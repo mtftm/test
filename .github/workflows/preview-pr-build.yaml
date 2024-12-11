@@ -42,7 +42,7 @@ jobs:
     
       - name: Deploy to Cloudflare Pages
         id: deploy
-        uses: cloudflare/wrangler-action@v3
+        uses: Leetfs/wrangler-action@1c7c6191398edab9e500e27b235fbf357e08233e
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
