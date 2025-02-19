@@ -20,7 +20,7 @@ title: 北京石油化工学院
 :::
 
 
-## 概述
+## 概述1
 
 [北京石油化工学院](https://www.bipt.edu.cn/)（BIPT, Beijing Institute of Petrochemical Technology）是北京的一个二本院校，[被张雪峰评为“宝藏学校”](https://www.bilibili.com/video/BV12h4y197ez/)。 2024 年在北京分数线 463~489[^beijing]， 在河北省 527~568 分[^hebei]，如果你是山河四省的同学的话，应该会发现“比自己低 100 分上一个学校”并不只是一个段子。
 
