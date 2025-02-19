@@ -27,7 +27,7 @@ jobs:
 
       # 第三步：安装 pnpm
       - name: 安装 pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@v4.1.0
 
       # 第四步：安装依赖
       - name: 安装依赖
